@@ -1,1 +1,1 @@
-document.characterSet.set("big5");
+document.characterSet="big5";
